@@ -1,7 +1,7 @@
  {
- 	"name" : "All-in-One WP Migration and Backup",
- 	"version" : "7.95",
- 	"download_url" : "https://github.com/yossi6206/my-plugin-updater/raw/main/all-in-one-wp-migration.7.95.zip",
+ 	"name" : "Elementor Pro",
+ 	"version" : "3.28.3",
+ 	"download_url" : "https://github.com/yossi6206/my-plugin-updater/raw/main/Elementor Pro.zip",
  	"sections" : {
  		"description" : "All-in-One WP Migration makes moving your entire WordPress site"
  	}
